@@ -6,6 +6,16 @@ numpy
 datasets
 # For data cleaning
 tqdm
-
 # For robustly downloading files
 requests
+
+# --- NEW LIBRARIES FOR MODEL TRAINING ---
+# The core deep learning framework
+torch
+
+# Hugging Face's library for models and training
+transformers
+accelerate
+
+# For model evaluation (BLEU score)
+sacrebleu
