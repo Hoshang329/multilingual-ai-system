@@ -1,3 +1,11 @@
 # Core data science libraries
 pandas
 numpy
+
+# For downloading datasets from Hugging Face
+datasets
+# For data cleaning
+tqdm
+
+# For robustly downloading files
+requests
