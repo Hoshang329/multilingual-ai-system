@@ -1,0 +1,3 @@
+# Core data science libraries
+pandas
+numpy
